@@ -20,3 +20,4 @@ A Python 3.7+ obfuscator with GUI
 - [ ] Shuffler
 - [ ] Minifier
 - [ ] Compiler
+- [ ] Mutator
