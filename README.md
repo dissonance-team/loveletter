@@ -1,0 +1,2 @@
+# loveletter
+LoveLetter - Python obfuscator
