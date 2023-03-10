@@ -18,6 +18,6 @@ A Python 3.7+ obfuscator with GUI
 - [ ] Renamer
 - [ ] Watermark
 - [ ] Shuffler
-- [ ] Minifier
+- [X] Minifier (Optimized, Mess, Custom)
 - [ ] Compiler
 - [ ] Mutator
