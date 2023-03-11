@@ -15,9 +15,8 @@ A Python 3.7+ obfuscator with GUI
 ## Available Obfuscation Methods
 
 - [X] Constant Obfuscation (Xor, Xor-Array)
-- [ ] Renamer
 - [ ] Watermark
 - [ ] Shuffler
-- [X] Minifier (Optimized, Mess, Custom)
+- [X] Renamer (Minifier, Mess, Custom)
 - [ ] Compiler
 - [ ] Mutator
